@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/UrbanNews/static/css/main.abd64e84.css",
+    "main.js": "/UrbanNews/static/js/main.b3ed27a0.js",
+    "static/js/787.4c026eef.chunk.js": "/UrbanNews/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/UrbanNews/static/media/loading.ea904d33dc8ddd2a8520.gif",
+    "index.html": "/UrbanNews/index.html",
+    "main.abd64e84.css.map": "/UrbanNews/static/css/main.abd64e84.css.map",
+    "main.b3ed27a0.js.map": "/UrbanNews/static/js/main.b3ed27a0.js.map",
+    "787.4c026eef.chunk.js.map": "/UrbanNews/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.b3ed27a0.js"
+  ]
+}
